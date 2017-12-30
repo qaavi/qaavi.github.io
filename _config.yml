@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Abdul Qavi
+title: WeCognize
 email: aqavi07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I write about and code iOS, deep learning and big data systems.
@@ -31,6 +31,7 @@ plugins:
 # Server Config options
 livereload: true     # You no longer need to include --livereload
 reload_port: 5678    # If you don't want to use the default port
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
