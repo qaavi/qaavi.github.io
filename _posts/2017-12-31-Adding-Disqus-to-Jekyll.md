@@ -6,11 +6,11 @@ date: 2017-12-31 09:30:00 +0500
 permalink: 2017/12/31/adding_disqus_to_jekyll/
 comments: true
 categories: jekyll update
-tags: jekyll 3.6.2 disqus _config.yml minima blog github-pages
+tags: jekyll 3.6.2 disqus _config.yml minima blog github-pages github
 description: This post is about adding DISQUS to Jekyll v.3.6.2
 ---
 
-I recently setup a Jekyll based blog, and was integrating DISQUS into it. Most of the
+I recently setup a [Jekyll] based blog, and was integrating DISQUS into it. Most of the
 blogs on Internet, and even DISQUS documentation itself was not updated, so thought to 
 write the steps so that others save time.
 
@@ -44,6 +44,6 @@ Almost DONE with configuration.
 [Disqus] comments box on your posts. Only the posts where you've set **comments=true** in posts' frontmatter. 
 
 
-
+[Jekyll]: https://jekyllrb.com/
 [Disqus]:  https://disqus.com
 [Github pages]: https://pages.github.com/
