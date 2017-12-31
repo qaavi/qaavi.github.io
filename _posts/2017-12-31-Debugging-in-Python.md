@@ -28,14 +28,14 @@ Now wherever you want to add breakpoint, add the line below:
 
 Here are couple commands you can use to debug:
 
-``` n - Next -  Go to next line```
-    s - Step into - Step into the function
-    c - Continue - Continue to next breakpoint
-    q - Quit - Quit the program execution ```
+``` n - Next -  Go to next line ```
+``` s - Step into - Step into the function ```
+``` c - Continue - Continue to next breakpoint ```
+``` q - Quit - Quit the program execution ```
 
 For complete list of commands, use 
 
-```h -  Help```
+``` h -  Help ```
 This will print complete list of commands you can use to debug your Python code in `Jupyter Notebook`
 
 
