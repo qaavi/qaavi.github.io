@@ -29,7 +29,13 @@ plugins:
   - jekyll-feed
 disqus:
     shortname: qaavi
+google_analytics: UA-47855372-5
 
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
 # Server Config options
 livereload: true     # You no longer need to include --livereload
 reload_port: 5678    # If you don't want to use the default port
