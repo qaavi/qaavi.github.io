@@ -9,7 +9,7 @@ categories: jekyll update
 tags: jekyll 3.6.2 disqus _config.yml minima blog github-pages github
 description: This post is about adding DISQUS to Jekyll v.3.6.2
 ---
-
+ 
 I recently setup a [Jekyll] based blog, and was integrating DISQUS into it. Most of the
 blogs on Internet, and even DISQUS documentation itself was not updated, so thought to 
 write the steps so that others save time.
